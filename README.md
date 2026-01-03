@@ -40,10 +40,10 @@ If you want to use the custom scripts included in this repo on your existing Ubu
    ```bash
    git clone [https://github.com/JisanDs/ubuntu_pre.git](https://github.com/JisanDs/ubuntu_pre.git)
 
-2. **Navigate to the directory:**\n
+2. **Navigate to the directory:**
    cd ubuntu_pre
    
-3. **Run your desired script:**\n
+3. **Run your desired script:**
    chmod +x script_name.sh
    ./script_name.sh
 
